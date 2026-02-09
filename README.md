@@ -10,7 +10,7 @@ It was built to demonstrate frontend–backend data fetching, state management, 
 ### Prerequisites
 
 * Node.js (v18+ recommended)
-* npm or yarn
+* npm
 
 ### Installation
 
