@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "E-commerce Product Listing",
+  title: "E-commerce",
   description: "Product listing with cart and filters",
 }
 
@@ -26,6 +26,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+       <link rel="icon" type="image/svg" href="/logo.svg" />
       <body
         className={`
           ${geistSans.variable}
